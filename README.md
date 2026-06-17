@@ -1,4 +1,20 @@
-
+---
+title: Research Paper Recommender
+emoji: 📚
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.35.0
+python_version: "3.11"
+app_file: app.py
+pinned: false
+license: mit
+tags:
+- research
+- nlp
+- sentence-transformers
+- semantic-search
+---
 
 # 📚 Research Paper Recommender
 

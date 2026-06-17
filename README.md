@@ -73,7 +73,7 @@ Graduate students and researchers waste hours searching their own paper librarie
 
 The application is deployed on Hugging Face Spaces:
 
-🔗 **Live URL:** `https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME`
+🔗 **Live URL:** `https://huggingface.co/spaces/ShetyeRupa/research-paper-recommender`
 
 ### Try These Example Queries
 
@@ -114,7 +114,7 @@ How can reinforcement learning be used to optimize driver revenue in ride-on-dem
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/research-paper-recommender.git
+git clone https://github.com/ShetyeRupa/research-paper-recommender.git
 cd research-paper-recommender
 
 # Create virtual environment

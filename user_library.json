@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "title": "Modeling and Analyzing Taxi Congestion Premium in Congested Cities",
+    "authors": "Yuan et al.",
+    "year": "2017",
+    "abstract": "Traffic congestion is a significant problem in many major cities. Getting stuck in traffic, the mileage per unit time that a taxicab travels will decline significantly. Congestion premium has become an increasingly important income source for taxi drivers. This paper develops a taxi price equilibrium model to investigate the adjustment mechanism of congestion premium on optimizing the taxi driver's income and balancing supply and demand.",
+    "file_name": "taxi_congestion_premium.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 1,
+    "title": "Extracting Commuter-Specific Destination Hotspots from Trip Destination Data",
+    "authors": "Keler et al.",
+    "year": "2020",
+    "abstract": "Taxi trajectories from urban environments allow inferring various information about transport service qualities and commuter dynamics. This paper compares destination hotspots of boro taxi and Citi Bike users in NYC. The authors introduce a spatiotemporal assigning procedure for areas of influence around static bike sharing stations.",
+    "file_name": "commuter_hotspots.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 2,
+    "title": "Seeking in Ride-on-Demand Service: A Reinforcement Learning Model with Dynamic Price Prediction",
+    "authors": "Guo et al.",
+    "year": "2024",
+    "abstract": "This paper focuses on the seeking route recommendation problem that aims at increasing driver revenue by recommending profitable seeking routes to drivers of vacant cars with the help of dynamic prices. The authors design a dynamic price prediction model and adopt a reinforcement learning model for route recommendation.",
+    "file_name": "ride_on_demand_rl.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 3,
+    "title": "Big Data Trip Classification on NYC Taxi and Uber Sensor Network",
+    "authors": "Sun et al.",
+    "year": "2018",
+    "abstract": "This paper uses big data technologies to analyze taxi and Uber trips in New York City. The authors classify regions into three categories based on which service dominates: Yellow taxi, Green taxi, or Uber. Logistic regression achieves over 85% accuracy.",
+    "file_name": "big_data_trip_classification.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 4,
+    "title": "Changing Demand for New York Yellow Cabs During the COVID-19 Pandemic",
+    "authors": "Manley et al.",
+    "year": "2021",
+    "abstract": "This paper explores the changed spatiotemporal nature of mobility demand during COVID-19. Through comparative analysis of NYC taxi records, the authors observe how relative demand for taxis displaced across land use zones and concentrated during daylight hours.",
+    "file_name": "covid_taxi_demand.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 5,
+    "title": "Forecasting NYC Yellow Taxi Ridership Decline: A Time Series Analysis",
+    "authors": "Singh",
+    "year": "2022",
+    "abstract": "This study analyzes and forecasts daily passenger counts for NYC yellow taxis during 2017-2019. Using ARIMA models, the analysis reveals strong seasonal patterns with a consistent linear decline of approximately 200 passengers per day.",
+    "file_name": "taxi_ridership_forecast.pdf",
+    "full_text": ""
+  },
+  {
+    "id": 6,
+    "title": "Effects of Congestion Surcharges: From Ridership to Competition and Safety",
+    "authors": "Weber et al.",
+    "year": "2023",
+    "abstract": "This paper examines the effects of a 2019 congestion surcharge on for-hire-vehicle and taxi usage in NYC. Using difference-in-differences method, the authors find a significant decline in rides originating from the charged area (11%) and a parallel reduction in collisions (5%) and injuries (9%).",
+    "file_name": "congestion_surcharges.pdf",
+    "full_text": ""
+  }
+]

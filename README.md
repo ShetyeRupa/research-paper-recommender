@@ -4,7 +4,7 @@
 
 > *An AI-powered semantic search engine that helps researchers find the most relevant papers from their library based on what they are writing.*
 
-[![Open in Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+[![Open in Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/ShetyeRupa/research-paper-recommender)
 [![Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-FF4B4B)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -69,12 +69,6 @@ Graduate students and researchers waste hours searching their own paper librarie
 
 ---
 
-## 🚀 Live Demo
-
-The application is deployed on Hugging Face Spaces:
-
-🔗 **Live URL:** `https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME`
-
 ### Try These Example Queries
 
 ```
@@ -114,7 +108,7 @@ How can reinforcement learning be used to optimize driver revenue in ride-on-dem
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/research-paper-recommender.git
+git clone https://github.com/ShetyeRupa/research-paper-recommender.git
 cd research-paper-recommender
 
 # Create virtual environment
@@ -215,8 +209,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or feedback:
-- **Email:** aihackathon@usaii.org
-- **Project Repository:** [GitHub Link]
+- **Email:** shetyerupa93@gmail.com
+- **Project Repository:** [https://github.com/ShetyeRupa/research-paper-recommender.git]
 
 ---
 
@@ -241,4 +235,4 @@ For questions or feedback:
 
 ---
 
-**Built with ❤️ for the USAII® Global AI Hackathon 2026**
+**Built with ❤️**
